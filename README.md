@@ -13,11 +13,11 @@ Software developer with several years of professional experience, currently retr
 
 ## Tech stack
 
-**Languages & Scripting:** `Python` `C#` `C++` `Bash`
-**Infrastructure:** `Proxmox` `Docker` `Synology (NAS)`
-**Home Automation / IoT:** `Home Assistant` `MQTT` `Zigbee2MQTT`
-**Monitoring & Data:** `Grafana` `MariaDB`
-**Collaboration:** `Jira` `Confluence` `Bitbucket`
+- **Languages & Scripting:** `Python` `C#` `C++` `Bash`
+- **Infrastructure:** `Proxmox` `Docker` `Synology (NAS)`
+- **Home Automation / IoT:** `Home Assistant` `MQTT` `Zigbee2MQTT`
+- **Monitoring & Data:** `Grafana` `MariaDB`
+- **Collaboration:** `Jira` `Confluence` `Bitbucket`
 
 *Currently learning: Ansible, Prometheus*
 
